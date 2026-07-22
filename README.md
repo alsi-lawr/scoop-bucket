@@ -1,14 +1,17 @@
-# scoop-bucket
+# Scoop Manifests
 
-This is a Scoop bucket repository.
+## How do I install these tools?
 
-Structure:
+1. Install [scoop](https://github.com/ScoopInstaller/Install).
 
-- Package manifest files directly at repository root, e.g. `blokebot.json`.
+2. Add this bucket to scoop:
 
-Usage:
+```
+scoop bucket add alsi-lawr https://github.com/alsi-lawr/scoop-bucket.git
+```
 
-```powershell
-scoop bucket add <bucket-name> <repo-url>
-scoop install <bucket-name>/<package>
+3. Install tools via `scoop install`:
+
+```
+scoop install <toolName>
 ```

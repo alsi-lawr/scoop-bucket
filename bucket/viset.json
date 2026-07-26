@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "description": "Reproducible browser screenshots and animations as code",
+    "homepage": "https://github.com/getviset/Viset",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/getviset/Viset/releases/download/v0.1.0/viset-v0.1.0-win-x64.zip",
+            "hash": "sha256:c3c0ecd8411de024f4fe7d5008429c691ead86d251bf7a21784da3725affbb78",
+            "extract_dir": "viset-v0.1.0-win-x64"
+        },
+        "arm64": {
+            "url": "https://github.com/getviset/Viset/releases/download/v0.1.0/viset-v0.1.0-win-arm64.zip",
+            "hash": "sha256:5839a1119f0e182a658d436d0d15a2551515aeb2c02449addafff7430df4b19b",
+            "extract_dir": "viset-v0.1.0-win-arm64"
+        }
+    },
+    "bin": [
+        ["bin/viset.exe", "viset"]
+    ]
+}

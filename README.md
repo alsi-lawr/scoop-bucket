@@ -7,7 +7,7 @@
 2. Add this bucket to scoop:
 
 ```
-scoop bucket add alsi-lawr https://github.com/alsi-lawr/scoop-bucket.git
+scoop bucket add getviset https://github.com/alsi-lawr/scoop-bucket.git
 ```
 
 3. Install tools via `scoop install`:

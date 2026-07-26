@@ -6,12 +6,12 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/getviset/Viset/releases/download/v0.1.0/viset-v0.1.0-win-x64.zip",
-            "hash": "sha256:16f7eb7854e982124d316437a5620342a70a10f832906c1dd535be102022f6ed",
+            "hash": "sha256:69a379fdeb71e6aabb0734d765b079dc5cc20b7cfe1ec1ec4ff26baa8ab6072a",
             "extract_dir": "viset-v0.1.0-win-x64"
         },
         "arm64": {
             "url": "https://github.com/getviset/Viset/releases/download/v0.1.0/viset-v0.1.0-win-arm64.zip",
-            "hash": "sha256:26a49ddc6ba35de681fe404508b423b93a7d390746d194a00b5513cc584934dc",
+            "hash": "sha256:f3374e63899799ed1c7ce2f5406aab8bf119c2d8294cdf7c464d2ee8f82e99d1",
             "extract_dir": "viset-v0.1.0-win-arm64"
         }
     },

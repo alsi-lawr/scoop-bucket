@@ -1,18 +1,18 @@
 {
-    "version": "0.13.2",
+    "version": "0.13.3",
     "description": "Free, open-source Twitch bot and dashboard",
     "homepage": "https://github.com/alsi-lawr/BlokeBot",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/alsi-lawr/BlokeBot/releases/download/v0.13.2/blokebot-v0.13.2-win-x64.zip",
-            "hash": "sha256:956d53c95fc6850b205d27d2369e9a41d15b8104ea85b645c00a7e56c573e61d",
-            "extract_dir": "blokebot-v0.13.2-win-x64"
+            "url": "https://github.com/alsi-lawr/BlokeBot/releases/download/v0.13.3/blokebot-v0.13.3-win-x64.zip",
+            "hash": "sha256:369baed19429f44d74a6a4024b1d31e06846b6abba31bb8948aed46225e83a2f",
+            "extract_dir": "blokebot-v0.13.3-win-x64"
         },
         "arm64": {
-            "url": "https://github.com/alsi-lawr/BlokeBot/releases/download/v0.13.2/blokebot-v0.13.2-win-arm64.zip",
-            "hash": "sha256:3615729ac70cd2a4e57e394676a203c38b8e88fa2bb147ed6a5a024983153334",
-            "extract_dir": "blokebot-v0.13.2-win-arm64"
+            "url": "https://github.com/alsi-lawr/BlokeBot/releases/download/v0.13.3/blokebot-v0.13.3-win-arm64.zip",
+            "hash": "sha256:b0ecbaed95354ca114654ccf682c352598c3476c97919124a8c9c24ffe8e9c13",
+            "extract_dir": "blokebot-v0.13.3-win-arm64"
         }
     },
     "bin": [

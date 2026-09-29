@@ -5,7 +5,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/ModConductor/ModConductor/releases/download/v0.1.0/modconductor-v0.1.0-win-x64.zip",
-      "hash": "ca3984cf94b01e445c985fd6f6839a46f8d27a8c32d66a339b66559b2bdab606"
+      "hash": "536fe778560f75678ee0b2c64c0078ce15bde77bac3b48e01edfe5576e8b2481"
     }
   },
   "bin": [

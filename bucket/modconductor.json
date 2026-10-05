@@ -1,22 +1,22 @@
 {
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Desktop mod organiser",
   "homepage": "https://github.com/ModConductor/ModConductor",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ModConductor/ModConductor/releases/download/v0.1.1/modconductor-v0.1.1-win-x64.zip",
-      "hash": "24e881d63891e170201aca5788d94bd3679968db90a5c58d2a39559101ec24a8"
+      "url": "https://github.com/ModConductor/ModConductor/releases/download/v0.2.0/modconductor-v0.2.0-win-x64.zip",
+      "hash": "32bb2ac48fb6ae78ff22e5a916c776b32f8cde304e2dedd9489e294a67a95fc6"
     }
   },
   "bin": [
     [
-      "modconductor-v0.1.1-win-x64\\mod_conductor.exe",
+      "modconductor-v0.2.0-win-x64\\mod_conductor.exe",
       "modconductor"
     ]
   ],
   "shortcuts": [
     [
-      "modconductor-v0.1.1-win-x64\\mod_conductor.exe",
+      "modconductor-v0.2.0-win-x64\\mod_conductor.exe",
       "Mod Conductor"
     ]
   ]
